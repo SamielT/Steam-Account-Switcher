@@ -37,8 +37,7 @@ You can use this script to quickly switch between Steam accounts in two ways:
    - Move the shortcut to your desktop or any other convenient location.
    - Rename the shortcut to something recognizable, like the name of account you're attempting to switch to.
 
-   In the shortcut properties, navigate to the "Target:" field and add your login username after the script location, just like using the command line.
-   Example (Target:):
+   In the shortcut properties, navigate to the "Target:" field and add your login username after the script location, just like using the command line:
    ```bash
    "C:\Location\of\Script\SteamAccSwitch.pyw" <login_username>
    ```
